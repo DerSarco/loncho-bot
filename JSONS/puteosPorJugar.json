@@ -1,0 +1,15 @@
+{
+    "puteos": [{
+            "id": 0,
+            "frase": "para de jugar marrano"
+        },
+        {
+            "id": 1,
+            "frase": "ya vay a jugar cerdo"
+        }, {
+            "id": 2,
+            "frase": "deja de jugar y anda a hacer ejercicio, cacho cerdo"
+        }
+    ]
+
+}

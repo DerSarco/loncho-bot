@@ -1,0 +1,19 @@
+{
+    "frases": [{
+              "id": 0,
+          "frase": "Eres un marica!"
+        },
+        {
+            "id": 1,
+            "frase": "Soy un super soldado"
+        }, {
+            "id": 2,
+            "frase": "Mira este cuerpo esculpido por adonis"
+        }
+        , {
+            "id": 3,
+            "frase": "Yo no soy otaku"
+        }
+    ]
+
+}
